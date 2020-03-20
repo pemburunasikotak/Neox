@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_trivia">
+
+    <ImageView
+    android:layout_width="80dp"
+    android:layout_height="20dp"
+    android:layout_gravity="center"
+    android:layout_marginTop="74dp"
+    android:background="@drawable/logo">
+
+    </ImageView>
+    <ImageView
+        android:layout_width="280dp"
+        android:layout_height="154dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="137dp"
+        android:background="@drawable/ic_gambar_pegunungan">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="284dp"
+        android:layout_height="38dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="54dp"
+        android:text="@string/bersukur"
+        android:textAlignment="center"
+        android:textSize="14dp">
+
+    </TextView>
+
+    <ImageView
+        android:layout_width="177dp"
+        android:layout_height="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/ic_devider">
+
+    </ImageView>
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="11dp"
+        android:background="@drawable/ic_tombol_slider_bawah"
+        android:layout_marginTop="116dp"
+        android:layout_gravity="center">
+
+    </ImageView>
+</LinearLayout>
