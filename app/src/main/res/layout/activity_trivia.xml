@@ -14,6 +14,7 @@
 
     </ImageView>
     <ImageView
+        android:id="@+id/img_gunung"
         android:layout_width="280dp"
         android:layout_height="154dp"
         android:layout_gravity="center"
